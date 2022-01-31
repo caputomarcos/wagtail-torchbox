@@ -1,4 +1,4 @@
-Django==1.7.4
+Django==1.8.16
 psycopg2==2.5.4
 wagtail==1.0rc2
 Pillow==2.7.0
